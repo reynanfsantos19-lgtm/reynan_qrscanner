@@ -8,8 +8,8 @@
         <v-list>
           <v-list-item
             prepend-avatar="https://randomuser.me/api/portraits/men/85.jpg"
-            subtitle="anthongarong9@gmail.com"
-            title="Anthon Louies D. Garong"
+            subtitle="reynansantos@gmail.com"
+            title="Reynan Santos"
           ></v-list-item>
         </v-list>
 
